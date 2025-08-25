@@ -293,13 +293,6 @@ Download complete chat data as CSV for further analysis or record keeping.
 - **Discord Bot**: Share insights automatically in Discord servers
 - **Twitter Integration**: Post key insights as tweets
 - **Analytics Platforms**: Connect with Google Analytics or similar tools
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 ## 🤝 Contributing
@@ -309,12 +302,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📞 Support
-
-For support, email your-email@example.com or create an issue in the GitHub repository.
 
 ---
 
